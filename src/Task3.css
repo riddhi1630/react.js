@@ -1,0 +1,28 @@
+h2{
+    text-align: center;
+}
+li{
+    display: block;
+    text-align: center;
+}
+.row 
+{
+    /* border:3px solid red; */
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.col 
+{
+    /* border:3px solid green; */
+    width: 250px;
+    padding: 10px;
+    
+}
+
+.info 
+{
+    background: lightblue;
+    padding: 12px;
+}
